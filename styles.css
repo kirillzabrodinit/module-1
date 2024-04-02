@@ -1,0 +1,73 @@
+body {
+  font-family: 'Manrope', sans-serif;
+  width: 100%;
+  background-color: #f5f5f5;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1400px;
+  background-color: #ffffff;
+  padding-left: 125px;
+  
+}
+
+.first {
+  margin-top: 30px;
+  padding-top: 379px;
+  padding-left: 40px;
+  height: 500px;
+  width: 1150px;
+  background-image: url('../resources/first.png');
+}
+
+.first-text {
+  width: 430px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 27.32px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+}
+
+h1 {  
+  width: 956px;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+  text-align: left;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  margin-top: 150px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.text-2 {
+  margin-top: 30px;
+  width: 1048px;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 61px;
+  text-align: left;
+  letter-spacing: -0.03em;
+}
+
+a {
+  margin-top: 30px;
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #AD1818;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+
+
+
+
